@@ -4,5 +4,5 @@
 /**
  * 
  */
-module proyecto_clases {
+module Clases {
 }
